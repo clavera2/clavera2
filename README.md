@@ -6,10 +6,10 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-My name is Claver Alfred, I am currently a second year computing for business student at Dubin City University with an aspiration for cloud and Software Reliability Engineering (SRE).
+My name is Claver Alfred, I am currently in second year studying computing for business at Dublin City University with an aspiration for cloud and Software Reliability Engineering (SRE).
 
 - 🔭 I’m currently working on deploying a web application developed in Spring-Boot using containerization technology, Docker.
-- 🌱 I’m currently learning best practices in cloud infrastructure management, creating and deploying a continuous intergration/continuous deployement pipeline for improving and automating business processes.
+- 🌱 I’m currently learning best practices in cloud infrastructure management, creating and deploying a continuous integration/continuous deployement pipeline for improving and automating business processes.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alfred-claver04) 
 
